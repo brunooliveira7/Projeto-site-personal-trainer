@@ -11,7 +11,7 @@ Você pode visualizar o layout completa do projeto através [DESSE LINK](https:/
 
 
 ## Layout web
-![Mobile 1](https://github.com/brunooliveira7/Projeto-site-decoracao/blob/main/Images/Site%20Decoracao.jpg)
+![Mobile 1](https://github.com/brunooliveira7/Projeto-site-personal-trainer/blob/main/images/Projeto%2002.jpg)
 
 # Tecnologias utilizadas
 
